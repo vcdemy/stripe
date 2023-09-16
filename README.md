@@ -9,6 +9,6 @@
 ## 相關連結
 * [Stripe支援的幣別](https://stripe.com/docs/currencies) (有新台幣喔！TWD)
 * [Stripe Quickstart](https://stripe.com/docs/checkout/quickstart)
-  * Prebuilt checkout page (先在stripe平台上建立好收費網頁，再使用程式導到收費網頁。)
+  * Prebuilt checkout page (先在stripe平台上建立好收費網頁，再用程式導到收費網頁結帳。)
   * Custom payment flow (自訂的付款流程。)
 * [Stripe Samples](https://github.com/stripe-samples)
